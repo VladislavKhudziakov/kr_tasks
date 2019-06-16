@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0DCC963522B6873F00F08687 /* t_15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0DCC963322B6873F00F08687 /* t_15.cpp */; };
 		0DFFDF0122B6638700FBECB3 /* input.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 0DFFDEFF22B661D700FBECB3 /* input.txt */; };
 		0DFFDF0422B6648F00FBECB3 /* t_14.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0DFFDF0222B6648F00FBECB3 /* t_14.cpp */; };
 		0DFFDF0922B682CF00FBECB3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0DFFDF0822B682CF00FBECB3 /* main.cpp */; };
@@ -26,6 +27,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0DCC963322B6873F00F08687 /* t_15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = t_15.cpp; sourceTree = "<group>"; };
+		0DCC963422B6873F00F08687 /* t_15.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = t_15.hpp; sourceTree = "<group>"; };
+		0DCC963622B68A9F00F08687 /* t_15_include.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = t_15_include.h; sourceTree = "<group>"; };
 		0DFFDEF522B6618D00FBECB3 /* kr_tasks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = kr_tasks; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DFFDEFF22B661D700FBECB3 /* input.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
 		0DFFDF0222B6648F00FBECB3 /* t_14.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = t_14.cpp; sourceTree = "<group>"; };
@@ -67,6 +71,9 @@
 				0DFFDF0222B6648F00FBECB3 /* t_14.cpp */,
 				0DFFDF0322B6648F00FBECB3 /* t_14.hpp */,
 				0DFFDF0822B682CF00FBECB3 /* main.cpp */,
+				0DCC963622B68A9F00F08687 /* t_15_include.h */,
+				0DCC963322B6873F00F08687 /* t_15.cpp */,
+				0DCC963422B6873F00F08687 /* t_15.hpp */,
 			);
 			path = kr_tasks;
 			sourceTree = "<group>";
@@ -129,6 +136,7 @@
 			files = (
 				0DFFDF0422B6648F00FBECB3 /* t_14.cpp in Sources */,
 				0DFFDF0922B682CF00FBECB3 /* main.cpp in Sources */,
+				0DCC963522B6873F00F08687 /* t_15.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
